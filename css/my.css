@@ -1,0 +1,15 @@
+.image-center {
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  }
+
+ .image-left {
+	display: block;
+ 	margin-left: 0;
+  	margin-right: auto;
+  }
+
+.width-100 {
+	width: 100%
+}
